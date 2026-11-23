@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Le Nam Khanh: statistics of evaluation">
+<style>
+.t{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.name{font-size:34px;font-weight:700;fill:#1f1f1e}
+.sub{font-size:15px;fill:#6b6a63}
+.type{clip-path:inset(0 100% 0 0);animation:type 1.6s steps(14) .2s forwards}
+.fade{opacity:0;animation:fade .8s ease 1.9s forwards}
+.fade2{opacity:0;animation:fade .8s ease 2.4s forwards}
+.draw1{stroke-dasharray:1400;stroke-dashoffset:1400;animation:draw 2.2s ease-out 1.8s forwards}
+.draw2{stroke-dasharray:1400;stroke-dashoffset:1400;animation:draw 2.2s ease-out 4.2s forwards}
+.lab1{opacity:0;animation:fade .6s ease 3.9s forwards}
+.lab2{opacity:0;animation:fade .6s ease 6.3s forwards}
+.cur{animation:blink 1s step-end infinite}
+@keyframes type{to{clip-path:inset(0 0 0 0)}}
+@keyframes fade{to{opacity:1}}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.type,.fade,.fade2,.draw1,.draw2,.lab1,.lab2{animation:none;opacity:1;clip-path:none;stroke-dashoffset:0}}
+</style>
+<rect width="900" height="220" rx="14" fill="#f7f6f2"/>
+<text x="40" y="92" class="t name type">Le Nam Khanh</text>
+<text x="40" y="130" class="t sub fade">statistics of evaluation · backtests · LLM agents</text>
+<text x="40" y="156" class="t sub fade2">Data Science &amp; AI @ PolyU</text>
+<line x1="520" x2="870" y1="150.2" y2="150.2" stroke="#d6d4cc" stroke-width="1" stroke-dasharray="3 4"/>
+<path d="M520.0,150.2 L522.9,147.7 L525.8,140.8 L528.8,143.8 L531.7,143.8 L534.6,138.7 L537.5,133.3 L540.4,128.8 L543.3,129.0 L546.2,125.1 L549.2,124.9 L552.1,127.7 L555.0,126.8 L557.9,125.5 L560.8,121.3 L563.8,122.8 L566.7,125.3 L569.6,124.2 L572.5,122.5 L575.4,117.7 L578.3,116.7 L581.2,118.0 L584.2,117.9 L587.1,109.7 L590.0,115.0 L592.9,115.1 L595.8,110.2 L598.8,109.7 L601.7,112.2 L604.6,113.8 L607.5,111.5 L610.4,114.2 L613.3,113.5 L616.2,113.3 L619.2,111.4 L622.1,109.1 L625.0,106.8 L627.9,106.0 L630.8,103.9 L633.8,104.0 L636.7,106.5 L639.6,106.8 L642.5,105.1 L645.4,102.4 L648.3,97.2 L651.2,98.1 L654.2,100.9 L657.1,103.7 L660.0,103.0 L662.9,108.6 L665.8,112.6 L668.8,111.9 L671.7,111.1 L674.6,115.3 L677.5,113.6 L680.4,113.4 L683.3,111.3 L686.2,108.3 L689.2,108.7 L692.1,108.6 L695.0,107.2 L697.9,110.1 L700.8,108.6 L703.8,112.9 L706.7,109.8 L709.6,108.2 L712.5,110.1 L715.4,110.0 L718.3,111.5 L721.2,110.5 L724.2,106.9 L727.1,107.5 L730.0,106.7 L732.9,103.2 L735.8,103.4 L738.8,100.7 L741.7,102.8 L744.6,103.4 L747.5,101.0 L750.4,97.6 L753.3,100.9 L756.2,101.1 L759.2,97.3 L762.1,96.1 L765.0,98.3 L767.9,97.1 L770.8,98.5 L773.8,94.8 L776.7,96.9 L779.6,99.8 L782.5,99.4 L785.4,99.4 L788.3,99.4 L791.2,101.8 L794.2,99.6 L797.1,100.1 L800.0,103.1 L802.9,94.4 L805.8,92.9 L808.8,94.2 L811.7,91.7 L814.6,94.2 L817.5,90.8 L820.4,86.7 L823.3,84.6 L826.2,81.7 L829.2,78.4 L832.1,72.4 L835.0,62.2 L837.9,68.5 L840.8,66.2 L843.8,66.1 L846.7,60.7 L849.6,59.7 L852.5,57.9 L855.4,58.5 L858.3,55.0 L861.2,52.4 L864.2,51.7 L867.1,46.2 L870.0,40.0" fill="none" stroke="#2a78d6" stroke-width="2.2" stroke-linejoin="round" class="draw1"/>
+<path d="M520.0,150.2 L522.9,149.3 L525.8,152.8 L528.8,157.5 L531.7,152.8 L534.6,153.4 L537.5,156.4 L540.4,160.3 L543.3,160.4 L546.2,162.1 L549.2,166.6 L552.1,167.0 L555.0,163.2 L557.9,161.1 L560.8,163.1 L563.8,164.9 L566.7,165.7 L569.6,167.9 L572.5,169.2 L575.4,170.0 L578.3,171.3 L581.2,168.8 L584.2,164.7 L587.1,166.0 L590.0,165.4 L592.9,167.6 L595.8,166.7 L598.8,164.5 L601.7,165.2 L604.6,163.9 L607.5,165.0 L610.4,167.4 L613.3,163.0 L616.2,162.3 L619.2,162.4 L622.1,159.1 L625.0,162.5 L627.9,159.9 L630.8,161.8 L633.8,160.5 L636.7,162.5 L639.6,157.5 L642.5,161.2 L645.4,163.2 L648.3,163.5 L651.2,162.6 L654.2,166.8 L657.1,168.8 L660.0,171.9 L662.9,169.2 L665.8,170.9 L668.8,170.8 L671.7,173.3 L674.6,172.8 L677.5,171.2 L680.4,171.8 L683.3,171.8 L686.2,171.1 L689.2,168.2 L692.1,166.5 L695.0,167.7 L697.9,170.8 L700.8,171.2 L703.8,170.2 L706.7,164.8 L709.6,164.7 L712.5,164.1 L715.4,167.6 L718.3,165.3 L721.2,168.4 L724.2,167.1 L727.1,166.9 L730.0,167.9 L732.9,163.9 L735.8,163.7 L738.8,160.0 L741.7,159.5 L744.6,164.1 L747.5,167.0 L750.4,169.7 L753.3,173.2 L756.2,173.4 L759.2,168.8 L762.1,165.7 L765.0,168.2 L767.9,167.0 L770.8,167.6 L773.8,162.6 L776.7,162.5 L779.6,159.6 L782.5,164.5 L785.4,163.8 L788.3,165.7 L791.2,170.6 L794.2,174.8 L797.1,175.1 L800.0,172.8 L802.9,172.6 L805.8,178.2 L808.8,178.1 L811.7,177.2 L814.6,180.0 L817.5,176.4 L820.4,173.4 L823.3,171.1 L826.2,170.0 L829.2,168.4 L832.1,169.0 L835.0,169.4 L837.9,169.5 L840.8,168.1 L843.8,168.4 L846.7,169.8 L849.6,173.4 L852.5,174.0 L855.4,174.3 L858.3,172.3 L861.2,173.9 L864.2,179.8 L867.1,175.7 L870.0,176.4" fill="none" stroke="#eb6834" stroke-width="2.2" stroke-linejoin="round" class="draw2"/>
+<text x="870" y="28" text-anchor="end" class="t sub lab1" style="font-size:12px;fill:#2a78d6">best of 1,000 random strategies, in sample</text>
+<text x="870" y="202" text-anchor="end" class="t sub lab2" style="font-size:12px;fill:#eb6834">the same strategy, out of sample</text>
+</svg>
